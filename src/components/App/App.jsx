@@ -19,7 +19,7 @@ import { SAMPLE_PARAGRAPHS } from "../data/sampleParagraphs";
  * ]
  */
 
-const TotalTime = 2;
+const TotalTime = 60;
 const DefaultState = {
   selectedParagraph: "Hello World!",
   testInfo: [],
